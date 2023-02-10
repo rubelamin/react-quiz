@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-See the live [Preview](https://react-quiz-rubelamin.netlify.app/)
+See the live [Preview](https://reactquiz.rubelamin.com/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
